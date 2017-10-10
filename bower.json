@@ -1,0 +1,18 @@
+{
+  "name": "pig-dice",
+  "description": "#### _{The application allows the player to play against another player or the computer the classical game of pig dice a game where the dice is rolled often}, {August 18th 2017}_",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/phuzisham/pig-dice",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
