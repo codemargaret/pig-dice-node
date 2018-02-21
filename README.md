@@ -6,7 +6,7 @@
 
 ## Description
 
-_{There are 2 objects in this game, player1/player2 or player1/AI. Player 1 gets to role a 6 sided dice numbered 1 to 6. If the number rolled is 2,3,4,5,6 the player may "hold the number" or roll again. If they hold that value is added to their total score.}_
+_Each turn, a player repeatedly rolls a die. After each roll, the player decides whether to 'hold' or roll again. If a 1 is rolled, the player scores nothing for that turn, and it becomes the next player's turn. The first player to get 100 points wins. The app displays the current roll and total score for each player._
 
 ## Project Goals
 * _Re-create an existing project as a NodeJS application with a Gulpfile._
